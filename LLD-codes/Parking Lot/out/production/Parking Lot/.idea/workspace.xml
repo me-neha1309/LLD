@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af7c66f3-c834-409c-8f74-60537a544d74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/ParkingLotFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ParkingFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ParkingTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/SpotType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/TicketStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/MockPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/ParkingLotRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/ParkingLotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy/HourlyPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy/PricingStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3COHrTRHRy5hHCgNQyW5qFAsO5d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Parking Lot.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nehachoudhary/Desktop/LLD/LLD-codes/Parking Lot",
+    "onboarding.tips.debug.path": "/Users/nehachoudhary/Desktop/LLD/LLD-codes/Parking Lot/out/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Parking Lot" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="homebrew-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Parking Lot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7c66f3-c834-409c-8f74-60537a544d74" name="Changes" comment="" />
+      <created>1776249894348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776249894348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/model/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
